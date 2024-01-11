@@ -50,7 +50,7 @@ const Contact = () => {
           ref={form}
           onSubmit={handleSubmit}
         >
-          <h1 className="text-xl  font-semibold">Email Me </h1>
+          <h1 className="text-xl  font-semibold">Email Me</h1>
           <input
             className="flex-1 bg-transparent border-2 border-black rounded-lg p-2"
             placeholder="Your Email"
